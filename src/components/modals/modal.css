@@ -1,0 +1,25 @@
+.token-info-title {
+  color: aliceblue;
+  margin-bottom: 35px;
+}
+
+p {
+  color: aliceblue;
+  display: flex;
+  gap: 15px;
+  font-size: 20px;
+}
+
+.close-btn-wrapper {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.close-btn {
+  margin-top: 35px;
+  background-color: rgb(248, 50, 50);
+  font-size: 20px;
+  padding: 10px 15px;
+  color: azure;
+}
